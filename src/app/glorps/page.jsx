@@ -22,7 +22,7 @@ export default function Glorps() {
                 alt={image.name}
                 layout='fill'
                 objectFit='cover'
-                className='rounded-md'
+                className='rounded-md bg-[#19230b]'
               />
             </a>
             <div className='flex flex-row gap-3 items-center justify-center w-full'>
